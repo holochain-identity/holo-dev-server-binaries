@@ -1,2 +1,3 @@
-# holo-dev-server-binaries
-Prebuilt releases of holo-dev-server
+# holo-dev-server Binaries
+
+Any empty repo for attaching prebuilt releases of `holo-dev-server`
